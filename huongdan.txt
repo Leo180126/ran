@@ -1,0 +1,9 @@
+Chọn độ khó bằng cách nhập các số từ 1 2 3 4
+Ấn Q để thoát game
+Sử dụng đầu ngón tay trỏ để điều khiển:
+    Chia khung hình thành 9 ô
+    Bắt đầu để tay ở ô giữa
+    Ngón tay ở 3 ô trên rắn sẽ hướng lên
+    Ngón tay ở 3 ô phải rắn sẽ hướng phải
+    Ngón tay ở 3 ô trái rắn sẽ hướng trái
+    Ngón tay ở 3 ô dưới rắn sẽ hướng dưới
